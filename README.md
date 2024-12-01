@@ -2,6 +2,7 @@
 
 ## Overview
 **[Kaggle Link](https://www.kaggle.com/code/nazliyusufoglu/notebook75ff098577)**
+
 This project implements an **Artificial Neural Network (ANN)** to classify images of fish species. The dataset consists of `.png` images of various fish species organized into directories. The goal is to preprocess the data, train the model using TensorFlow and Keras, and evaluate its performance through various metrics.
 
 ## Project Structure
